@@ -5,5 +5,4 @@ conflict resolved
 Lubuntu QA 20 60
 
 
-
-testttt
+only test 
